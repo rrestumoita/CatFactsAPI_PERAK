@@ -1,4 +1,6 @@
-# catfactapi
+# CatfactsAPI
+# Nama : Restu Moita Putri
+# NIM : H1101221003
 
 A new Flutter project.
 
